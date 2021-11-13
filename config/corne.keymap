@@ -58,14 +58,5 @@
             >;
         };
 
-        layer_symbols {
-            bindings = <
- &kp HASH  &kp KP_MULTIPLY  &kp TILDE     &kp  &kp PIPE  &kp MINUS            &kp QUESTION     &kp     &kp     &kp     &kp     &kp
-      &kp        &kp SLASH        &kp     &kp       &kp   &kp PLUS                     &kp     &kp     &kp     &kp     &kp     &kp
-      &kp      &kp PERCENT  &kp GRAVE     &kp       &kp  &kp EQUAL                     &kp     &kp     &kp     &kp     &kp     &kp
-                                       &trans    &trans     &trans                  &trans  &trans  &trans
-            >;
-        };
-
     };
 };
