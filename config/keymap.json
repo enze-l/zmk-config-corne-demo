@@ -6,8 +6,7 @@
     "base",
     "MOVEMENT",
     "FUNCTIONS",
-    "NUMBERS",
-    "symbols"
+    "NUMBERS"
   ],
   "layers": [
     [
@@ -30,11 +29,6 @@
        "&kp KP_DOT",       "&kp SLASH", "&kp NUMBER_4", "&kp NUMBER_5", "&kp NUMBER_6",  "&kp PLUS",           "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
         "&kp COMMA",     "&kp PERCENT", "&kp NUMBER_1", "&kp NUMBER_2", "&kp NUMBER_3",  "&kp RPAR",           "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
                                                               "&trans",          "&kp",    "&trans",           "&trans", "&trans", "&trans"
-    ], [
-       "&kp HASH", "&kp KP_MULTIPLY", "&kp TILDE",    "&kp", "&kp PIPE", "&kp MINUS",           "&kp QUESTION",    "&kp",    "&kp",    "&kp",    "&kp",    "&kp",
-            "&kp",       "&kp SLASH",       "&kp",    "&kp",      "&kp",  "&kp PLUS",                    "&kp",    "&kp",    "&kp",    "&kp",    "&kp",    "&kp",
-            "&kp",     "&kp PERCENT", "&kp GRAVE",    "&kp",      "&kp", "&kp EQUAL",                    "&kp",    "&kp",    "&kp",    "&kp",    "&kp",    "&kp",
-                                                   "&trans",   "&trans",    "&trans",                 "&trans", "&trans", "&trans"
     ]
   ]
 }
