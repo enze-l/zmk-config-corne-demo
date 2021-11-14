@@ -31,10 +31,10 @@
         "&kp COMMA",     "&kp PERCENT", "&kp NUMBER_1", "&kp NUMBER_2", "&kp NUMBER_3",  "&kp RPAR",           "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
                                                               "&trans", "&kp NUMBER_0",    "&trans",           "&trans", "&trans", "&trans"
     ], [
-                  "&kp APOS",    "&kp RBRC",       "&trans",  "&kp NON_US_BSLH", "&kp LS(NON_US_BSLH)", "&kp SLASH",           "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
-             "&kp LA(MINUS)",    "&kp AMPS", "&kp RA(APOS)", "&kp RA(NUMBER_8)",        "&kp NUMBER_9",  "&kp RBRC",           "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
-       "&kp RA(NON_US_BSLH)", "&kp PERCENT",    "&kp GRAVE",           "&trans",              "&trans",  "&kp RPAR",           "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
-                                                                       "&trans",              "&trans",    "&trans",           "&trans", "&trans", "&trans"
+       "&kp NON_US_HASH",    "&kp RBRC",       "&trans",  "&kp NON_US_BSLH", "&kp LS(NON_US_BSLH)", "&kp SLASH",           "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
+         "&kp RA(MINUS)",    "&kp AMPS", "&kp RA(APOS)", "&kp RA(NUMBER_8)",        "&kp NUMBER_9",  "&kp RBKT",           "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
+              "&kp AMPS", "&kp PERCENT",    "&kp GRAVE",           "&trans",              "&trans",  "&kp RPAR",           "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
+                                                                   "&trans",              "&trans",    "&trans",           "&trans", "&trans", "&trans"
     ]
   ]
 }
