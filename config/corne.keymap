@@ -64,8 +64,8 @@
 
         layer_NUMBERS {
             bindings = <
-     &trans  &kp KP_MULTIPLY  &kp NUMBER_7  &kp NUMBER_8  &kp NUMBER_9  &kp MINUS            &trans  &trans  &trans  &trans  &trans  &trans
- &kp KP_DOT        &kp SLASH  &kp NUMBER_4  &kp NUMBER_5  &kp NUMBER_6   &kp PLUS            &trans  &trans  &trans  &trans  &trans  &trans
+     &trans         &kp RBRC  &kp NUMBER_7  &kp NUMBER_8  &kp NUMBER_9  &kp SLASH            &trans  &trans  &trans  &trans  &trans  &trans
+    &kp DOT         &kp AMPS  &kp NUMBER_4  &kp NUMBER_5  &kp NUMBER_6   &kp RBKT            &trans  &trans  &trans  &trans  &trans  &trans
   &kp COMMA      &kp PERCENT  &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3   &kp RPAR            &trans  &trans  &trans  &trans  &trans  &trans
                                                   &trans  &kp NUMBER_0     &trans            &trans  &trans  &trans
             >;
