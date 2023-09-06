@@ -64,10 +64,10 @@
 
         layer_SYMBOLS {
             bindings = <
-&kp NON_US_HASH   &kp RBRC     &kp LS(GRAVE)  &kp GRAVE         &kp LA(GRAVE)     &kp SLASH    &kp RS(SLASH)     &kp LA(NUMBER_8)  &kp LA(NUMBER_9)  &kp LS(EQUAL)     &kp LS(NON_US_HASH)  &kp EQUAL
-&kp LA(LS(N7))    &kp AMPS     &kp LA(N)      &kp LA(NUMBER_5)  &kp LA(NUMBER_6)  &kp RBKT     &kp RA(L)         &kp LS(NUMBER_8)  &kp RS(NUMBER_9)  &kp RS(DOT)       &kp LS(COMMA)        &kp LS(NUMBER_2)
-&kp LA(NUMBER_7)  &kp PERCENT  &kp BACKSLASH  &none             &none             &kp RPAR     &kp RS(NUMBER_3)  &kp RS(NUMBER_4)  &kp RA(E)         &kp RS(NUMBER_1)  &kp LS(MINUS)        &kp RS(NUMBER_6)
-                                              &trans            &trans            &trans       &trans            &trans            &trans
+&kp NON_US_HASH   &kp RBRC     &kp LA(J)             &kp LA(GRAVE)     &kp GRAVE         &kp SLASH    &kp RS(SLASH)     &kp LA(NUMBER_8)  &kp LA(NUMBER_9)  &kp LS(EQUAL)     &kp LS(NON_US_HASH)  &kp EQUAL
+&kp LA(LS(N7))    &kp AMPS     &kp LA(N)             &kp LA(NUMBER_5)  &kp LA(NUMBER_6)  &kp RBKT     &kp RA(L)         &kp LS(NUMBER_8)  &kp RS(NUMBER_9)  &kp RS(DOT)       &kp LS(COMMA)        &kp LS(NUMBER_2)
+&kp LA(NUMBER_7)  &kp PERCENT  &kp LS(LA(NUMBER_6))  &none             &none             &kp RPAR     &kp RS(NUMBER_3)  &kp RS(NUMBER_4)  &kp RA(E)         &kp RS(NUMBER_1)  &kp LS(MINUS)        &kp RS(NUMBER_6)
+                                                     &trans            &trans            &trans       &trans            &trans            &trans
             >;
         };
 
